@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "USB-C Charger 30W",
+    "price": 799.0,
+    "stock": 25,
+    "description": "Fast USB-C wall charger",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "price": 599.0,
+    "stock": 40,
+    "description": "Ergonomic wireless mouse",
+    "category": "Peripherals"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "price": 2499.0,
+    "stock": 15,
+    "description": "RGB mechanical keyboard",
+    "category": "Peripherals"
+  }
+]
