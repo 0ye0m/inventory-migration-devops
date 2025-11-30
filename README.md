@@ -11,24 +11,6 @@ Modernized a legacy inventory system by migrating from static JSON files to a SQ
 - **Public Access**: Ngrok
 - **OS**: WSL Ubuntu
 
-## 📁 Project Structure
-inventory-migration/
-├─ inventory.json
-├─ categories.json
-├─ lib.py
-├─ requirements.txt
-├─ venv/
-├─ main.py
-├─ database.py
-├─ models.py
-├─ migrate.py
-├─ verify_db.py
-├─ test_api.py
-├─ README.md
-└─ screenshots/
-
-
-
 ## 🚀 Quick Start
 1. Clone repository
 2. Run `pip install -r requirements.txt`
@@ -47,4 +29,5 @@ inventory-migration/
 - Database migration proof
 - Price calculation logic
 - Systemd service status
+
 - Public URL access
